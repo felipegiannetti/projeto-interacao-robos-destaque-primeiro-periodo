@@ -11,14 +11,14 @@
 
 ## Integrantes
 
-* Felipe Giannetti Fontenelle
-* Bernardo Rodrigues Pereira
-* Pedro Marra Turra
-* Gabriel Reis Santos Cardoso
-* Marcos Vinicius dos Santos Pereira
-* Luis Felipe Santos Attie
-* Joao Camilo Aguiar de Freitas Santos
 * Antonio Augusto Vilela Campos
+* Bernardo Rodrigues Pereira
+* Felipe Giannetti Fontenelle
+* Gabriel Reis Santos Cardoso
+* Joao Camilo Aguiar de Freitas Santos
+* Luis Felipe Santos Attie
+* Marcos Vinicius dos Santos Pereira
+* Pedro Marra Turra
 
 ## Orientador
 
