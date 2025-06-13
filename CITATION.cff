@@ -1,0 +1,28 @@
+cff-version: 1.0.1
+message: "Please cite this project using these metadata."
+authors:
+  - family-names: "Marra Turra"
+    given-names: "Pedro"
+  - family-names: "Rodrigues Pereira"
+    given-names: "Bernardo"
+  - family-names: "Reis Santos Cardoso"
+    given-names: "Gabriel"
+  - family-names: "Santos Attie"
+    given-names: "Luis Felipe"
+  - family-names: "dos Santos Pereira"
+    given-names: "Marcos Vinicius"
+  - family-names: "Giannetti Fontenelle"
+    given-names: "Felipe"
+  - family-names: "Aguiar de Freitas Santos"
+    given-names: "Joao Camilo"
+  - family-names: "Augusto Vilela Campos"
+    given-names: "Antonio"
+  - name-suffix: "Professor"
+    given-names: "Felipe"
+    family-names: "Lara Soares"
+    affiliation: "PUC Minas"
+title: "Briga de Robos"
+version: 1.0.0
+date-released: 2024-01-14
+url: "https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-arcade-de-robo"
+
