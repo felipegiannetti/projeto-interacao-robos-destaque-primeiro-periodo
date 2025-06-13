@@ -30,24 +30,25 @@ Repositório original do projeto: https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec
 
 Nosso trabalho consiste em fazer uma briga entre robos controlados por humanos atraves de um controle de arcade e um telefone, utilizando bluetooth. Cada robo tera um balao acoplado, e o objetivo do jogo e estourar o balao do carro inimigo. O carro que estourar o balao do outro primeiro, vence.
 
-# Código (do arduino ou esp32)
+# Códigos (do arduino ou esp32)
 
-<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo/joystick.ino"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo/robos.ino"> Código Fonte (.ino)</a></li>
 
 # Aplicativo para Smartphone
 
-<li><a href="App/README.md"> Aplicativo </a></li>
+<li><a href="App/App_Controle.aia"> Aplicativo </a></li>
 
 # Apresentação
 
 <ol>
-<li><a href="Apresentacao/README.md"> Vídeo do Funcionamento</a></li>
-<li><a href="Apresentacao/README.md"> Fotos do Projeto</a></li>
+    <li><a href="Apresentacao/README.md"> Fotos do Projeto</a></li>
+    <li><a href="Apresentacao/README.md"> Vídeo do Funcionamento</a></li>
 </ol>
 
 # Manual de Utilização
 
-<li><a href="Manual/manual de utilização.md"> Manual de Utilização</a></li>
+<li><a href="Manual/manual-utilização.md"> Manual de Utilização</a></li>
 
 
 # Documentação
