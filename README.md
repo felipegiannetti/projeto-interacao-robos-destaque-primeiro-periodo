@@ -28,12 +28,12 @@
 
 Repositório original do projeto: https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-g1-arcade-de-robo
 
-Nosso trabalho consiste em fazer uma briga entre robos controlados por humanos atraves de um controle de arcade e um telefone, utilizando bluetooth. Cada robo tera um balao acoplado, e o objetivo do jogo e estourar o balao do carro inimigo. O carro que estourar o balao do outro primeiro, vence.
+Nosso trabalho consiste em fazer uma briga entre robôs controlados por humanos através de um controle de arcade e um telefone, utilizando bluetooth. Cada robô possui um balão acoplado, e o objetivo do jogo é estourar o balão do carro inimigo. O carro que estourar o balão do outro primeiro, vence.
 
-# Códigos (do arduino ou esp32)
+# Códigos
 
-<li><a href="Codigo/joystick.ino"> Código Fonte (.ino)</a></li>
-<li><a href="Codigo/robos.ino"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo/joystick.ino"> Código Joystick (.ino)</a></li>
+<li><a href="Codigo/robos.ino"> Código Robôs (.ino)</a></li>
 
 # Aplicativo para Smartphone
 
