@@ -11,11 +11,11 @@
 
 ## Integrantes
 
+* Felipe Giannetti Fontenelle
 * Bernardo Rodrigues Pereira
 * Pedro Marra Turra
 * Gabriel Reis Santos Cardoso
 * Marcos Vinicius dos Santos Pereira
-* Felipe Giannetti Fontenelle
 * Luis Felipe Santos Attie
 * Joao Camilo Aguiar de Freitas Santos
 * Antonio Augusto Vilela Campos
